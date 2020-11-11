@@ -1,0 +1,4 @@
+F:\8th semester\oop2\code\4th lab\4th lab\class\class\obj\Debug\netcoreapp3.1\class.csprojAssemblyReference.cache
+F:\8th semester\oop2\code\4th lab\4th lab\class\class\obj\Debug\netcoreapp3.1\class.AssemblyInfoInputs.cache
+F:\8th semester\oop2\code\4th lab\4th lab\class\class\obj\Debug\netcoreapp3.1\class.AssemblyInfo.cs
+F:\8th semester\oop2\code\4th lab\4th lab\class\class\obj\Debug\netcoreapp3.1\class.csproj.CoreCompileInputs.cache
